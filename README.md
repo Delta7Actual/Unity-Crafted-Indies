@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Welcome! To **UCI**, Want a place to showcase your game? This is it.
+## Welcome To **UCI**! Want a place to showcase your game? This is it.
 
 This project's purpose is to be a hub where you can add **your own game** made with UNITY and share it with others on **Github**
 
