@@ -18,9 +18,9 @@ We would like to acknowledge and thank you very much!
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Delta7Actual"><img src="https://avatars.githubusercontent.com/u/142044822?v=4?s=100" width="100px;" alt="Delta7Actual"/><br /><sub><b>Delta7Actual</b></sub></a><br /><a href="https://github.com/Delta7Actual/Personal-Game-Showcase/commits?author=Delta7Actual" title="Code">💻</a> <a href="#design-Delta7Actual" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arad05"><img src="https://avatars.githubusercontent.com/u/134449729?v=4?s=100" width="100px;" alt="Arad05"/><br /><sub><b>Arad05</b></sub></a><br /><a href="#content-Arad05" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WDmaster235"><img src="https://avatars.githubusercontent.com/u/131697799?v=4?s=100" width="100px;" alt="WDmaster235"/><br /><sub><b>WDmaster235</b></sub></a><br /><a href="#content-WDmaster235" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Delta7Actual"><img src="https://avatars.githubusercontent.com/u/142044822?v=4?s=100" width="100px;" alt="Delta7Actual"/><br /><sub><b>Delta7Actual</b></sub></a><br /><a href="https://github.com/Delta7Actual/Personal-Game-Showcase/commits?author=Delta7Actual" title="Code">💻</a> <a href="#design-Delta7Actual" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
