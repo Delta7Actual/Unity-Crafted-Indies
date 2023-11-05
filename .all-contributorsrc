@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Arad05",
+      "name": "Arad05",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134449729?v=4",
+      "profile": "https://github.com/Arad05",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Personal-Game-Showcase",
+  "projectOwner": "Delta7Actual"
+}
