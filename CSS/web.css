@@ -1,9 +1,112 @@
+@font-face {
+  font-family: "Jet";
+  src: url(../Fonts/JetBrainsMono-Bold.ttf);
+}
+
+:root {
+  --darker: rgb(26, 28, 34);
+  --dark: #191d22;
+  --medium: #202429;
+  --light: #282e35;
+  --primary: #007d82;
+  --secondary: #e09f1f;
+}
+
 body {
-  background-color: #21262d;
+  background-color: black;
+  font-family: Jet;
+  display: grid;
+  grid-template-columns: 0.9fr 1fr;
+  grid-template-rows: 1.2fr 1fr;
+  height: 100vh;
+  margin: 0px;
+  color: white;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.left-column {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  background-color: var(--medium);
+  border-right: var(--light) 5px solid;
   display: flex;
   justify-content: center;
 }
 
-h1 {
+.right-column-top {
+  grid-column: 2;
+  grid-row: 1;
+  background-color: var(--dark);
+  display: flex;
+  justify-content: center;
+}
+
+.right-column-bottom {
+  grid-column: 2;
+  grid-row: 2;
+  background-color: var(--dark);
+  border-top: var(--light) 5px solid;
+  display: flex;
+  justify-content: center;
+}
+
+.left-title-container {
+  margin-top: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 85%;
+}
+
+.right-title-container {
+  margin-top: 2.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.left-sub-container {
+  text-align: left;
+  width: 80%;
+  padding: 25px;
+  padding-left: 10px;
+  padding-right: 35px;
+  line-height: 2.5;
+  background-color: var(--darker);
+  font-size: 1.1em;
+  box-shadow: 10px 10px 29px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 1.5%;
+}
+
+.right-sub-container {
+  text-align: left;
+  width: 150%;
+  overflow: hidden;
+  padding: 25px;
+  padding-left: 10px;
+  padding-right: 35px;
+  line-height: 2.5;
+  background-color: var(--light);
+  font-size: 1.1em;
+  box-shadow: 10px 10px 29px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 1.5%;
+}
+
+.SubTitle {
+  font-size: 2em;
+  margin-bottom: 2.5%;
+  color: var(--secondary);
+}
+
+.PrimaryTitle {
+  font-size: 4em;
   color: white;
+}
+
+.SecondaryTitle {
+  color: var(--primary);
+  font-size: 2.2em;
+  margin-bottom: 10%;
 }
