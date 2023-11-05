@@ -10,4 +10,11 @@ This project's purpose is to be a hub where you can add **your own game** made w
 
 We would like to acknowledge and thank you very much!
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
