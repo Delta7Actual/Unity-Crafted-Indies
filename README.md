@@ -7,7 +7,7 @@
 
 This project's purpose is to be a hub where you can add **your own game** made with UNITY and share it with others on **Github**
 
-**Live Website Link**: [UCI Active Site Link](https://delta7actual.github.io/Personal-Game-Showcase/)
+**Live Website Link**: [UCI Active Site Link](https://delta7actual.github.io/Unity-Crafted-Indies/)
 
 ## Contributors
 
