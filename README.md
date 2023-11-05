@@ -1,6 +1,6 @@
 # UNITY Crafted Indies
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Welcome! To **UCI**, Want a place to showcase your game? This is it.
@@ -19,6 +19,7 @@ We would like to acknowledge and thank you very much!
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arad05"><img src="https://avatars.githubusercontent.com/u/134449729?v=4?s=100" width="100px;" alt="Arad05"/><br /><sub><b>Arad05</b></sub></a><br /><a href="#content-Arad05" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/WDmaster235"><img src="https://avatars.githubusercontent.com/u/131697799?v=4?s=100" width="100px;" alt="WDmaster235"/><br /><sub><b>WDmaster235</b></sub></a><br /><a href="#content-WDmaster235" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
