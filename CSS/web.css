@@ -1,0 +1,9 @@
+body {
+  background-color: #21262d;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+}
