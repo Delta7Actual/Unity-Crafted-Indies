@@ -6,7 +6,7 @@ This project's purpose is to be a hub where you can add **your own game** made w
 
 **Live Website Link**: [UCI Active Site Link](https://delta7actual.github.io/Personal-Game-Showcase/)
 
-##Contributors
+## Contributors
 
 We would like to acknowledge and thank you very much!
 
