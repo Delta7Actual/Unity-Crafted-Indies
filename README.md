@@ -40,7 +40,7 @@ We would like to acknowledge and thank you very much!
 
 ## How to contribute
 
-<img align="right" width="300" src="/Unity-Crafted-Indies/Images/Fork.png" alt="fork this repository" />
+<img align="right" width="300" src="Images/Fork.png" alt="fork this repository" />
 
 ### 1. Fork this Repository
 
