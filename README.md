@@ -51,7 +51,7 @@ We would like to acknowledge and thank you very much!
 
 ### 2. Clone the Repository
 
-<img align="right" width="300" src="/Unity-Crafted-Indies/Images/Clone.png" alt="clone this repository" />
+<img align="right" width="300" src="Images/Clone.png" alt="clone this repository" />
 
 - Clone your forked repository to your local machine. In your GitHub account, navigate to your forked repository and click the "Code" button. Copy the URL.
 
