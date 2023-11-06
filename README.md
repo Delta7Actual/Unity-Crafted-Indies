@@ -1,9 +1,12 @@
 # UNITY Crafted Indies
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
- **Welcome To **UCI**! Want a place to showcase your game? This is it.**
+**Welcome To **UCI**! Want a place to showcase your game? This is it.**
 
 This project's purpose is to be a hub where you can add **your own game** made with UNITY and share it with others on **Github**
 
@@ -12,6 +15,7 @@ This project's purpose is to be a hub where you can add **your own game** made w
 ## Contributors
 
 We would like to acknowledge and thank you very much!
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -36,8 +40,29 @@ We would like to acknowledge and thank you very much!
 
 ## How to contribute
 
+<img align="right" width="300" src="/Unity-Crafted-Indies/Images/Fork.png" alt="fork this repository" />
+
 ### 1. Fork this Repository
+
 **Make sure you have Git installed on your machine** (Install it [HERE](https://docs.github.com/en/get-started/quickstart/set-up-git))
 
 - Press the "Fork" button on the top right of the repository page.
 - This will create a copy of this repository in your personal Github account.
+
+### 2. Clone the Repository
+
+<img align="right" width="300" src="/Unity-Crafted-Indies/Images/Clone.png" alt="clone this repository" />
+
+- Clone your forked repository to your local machine. In your GitHub account, navigate to your forked repository and click the "Code" button. Copy the URL.
+
+- Open your terminal and run the following command, replacing `"url you just copied"` with the URL you copied:
+
+```shell
+git clone "URL you just copied"
+```
+
+For example:
+
+```shell
+git clone git@github.com:this-is-you/Unity-Crafted-Indies.git
+```
