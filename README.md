@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Welcome To **UCI**! Want a place to showcase your game? This is it.
+ **Welcome To **UCI**! Want a place to showcase your game? This is it.**
 
 This project's purpose is to be a hub where you can add **your own game** made with UNITY and share it with others on **Github**
 
@@ -34,7 +34,10 @@ We would like to acknowledge and thank you very much!
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+## How to contribute
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+### 1. Fork this Repository
+**Make sure you have Git installed on your machine** (Install it [HERE](https://docs.github.com/en/get-started/quickstart/set-up-git))
+
+- Press the "Fork" button on the top right of the repository page.
+- This will create a copy of this repository in your personal Github account.
