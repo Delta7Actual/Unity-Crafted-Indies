@@ -51,7 +51,7 @@ We would like to acknowledge and thank you very much!
 
 ### 2. Clone the Repository
 
-<img align="right" width="300" src="/Unity-Crafted-Indies/Images/Clone.png" alt="clone this repository" />
+<img align="right" width="300" src="Images/Clone.png" alt="clone this repository" />
 
 - Clone your forked repository to your local machine. In your GitHub account, navigate to your forked repository and click the "Code" button. Copy the URL.
 
@@ -66,3 +66,19 @@ For example:
 ```shell
 git clone git@github.com:this-is-you/Unity-Crafted-Indies.git
 ```
+
+### 3. Create a new branch
+
+If you're not already in the repository directory, navigate to it by typing:
+
+```shell
+cd Unity-Crafted-Indies
+```
+
+Now, create a new branch in your repository to implement your changes by typing:
+
+```shell
+git switch -c add-your-name
+```
+
+Replace "add-your-name" with a branch name that describes your contribution.
