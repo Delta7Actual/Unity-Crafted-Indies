@@ -66,3 +66,19 @@ For example:
 ```shell
 git clone git@github.com:this-is-you/Unity-Crafted-Indies.git
 ```
+
+### 3. Create a new branch
+
+If you're not already in the repository directory, navigate to it by typing:
+
+```shell
+cd Unity-Crafted-Indies
+```
+
+Now, create a new branch in your repository to implement your changes by typing:
+
+```shell
+git switch -c add-your-name
+```
+
+Replace "add-your-name" with a branch name that describes your contribution.
