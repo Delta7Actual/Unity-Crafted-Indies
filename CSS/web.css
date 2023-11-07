@@ -16,7 +16,7 @@ body {
   background-color: black;
   font-family: Jet;
   display: grid;
-  grid-template-columns: 0.8fr 1fr;
+  grid-template-columns: 0.6fr 1fr;
   grid-template-rows: 1fr 2fr;
   height: 100vh;
   margin: 0px;
@@ -60,12 +60,13 @@ body {
 }
 
 .left-title-container {
-  margin-top: 15%;
+  margin-top: 20%;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   width: 85%;
+  overflow: hidden;
 }
 
 .right-title-container {
@@ -138,10 +139,62 @@ body {
   color: var(--primary);
   font-size: 1.2em;
   text-decoration: underline;
+  margin-top: 5px;
 }
 
 .box {
   color: white;
-  background-color: var(--secondary);
+  background-color: var(--primary);
   border-radius: 5px;
+}
+nav {
+  position: absolute;
+  top: 0;
+  width: 35%;
+  height: 75px;
+  background-color: var(--darker);
+  box-shadow: 10px 10px 29px 0px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  border-bottom: var(--light) 5px solid;
+  border-right: var(--light) 5px solid;
+  border-left: var(--light) 5px solid;
+}
+
+.nav-button {
+  cursor: pointer;
+  background-color: var(--darker);
+  color: var(--primary);
+  font-size: 1.5rem;
+  border: none;
+  width: 400px;
+}
+
+.nav-button:hover {
+  animation: button-change 0.5s ease-out forwards;
+}
+
+.link:hover {
+  animation: link 0.1s ease-out forwards;
+}
+
+@keyframes link {
+  0% {
+    color: var(--primary);
+  }
+  100% {
+    color: white;
+    background-color: var(--primary);
+    text-transform: uppercase;
+  }
+}
+@keyframes button-change {
+  0% {
+    color: var(--primary);
+    background-color: var(--darker);
+  }
+  100% {
+    color: white;
+    background-color: var(--primary);
+  }
 }
