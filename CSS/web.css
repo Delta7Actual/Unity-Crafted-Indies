@@ -18,7 +18,7 @@ body {
   display: grid;
   grid-template-columns: 0.6fr 1fr;
   grid-template-rows: 1fr 2fr;
-  height: 100vh;
+  height: auto;
   margin: 0px;
   color: white;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
@@ -38,6 +38,7 @@ body {
   border-right: var(--light) 5px solid;
   display: flex;
   justify-content: center;
+  overflow-y: auto;
 }
 
 .right-column-top {
@@ -140,6 +141,7 @@ body {
   font-size: 1.2em;
   text-decoration: underline;
   margin-top: 5px;
+  transition: .5s ease;
 }
 
 .box {
@@ -166,8 +168,9 @@ nav {
   background-color: var(--darker);
   color: var(--primary);
   font-size: 1.5rem;
-  border: none;
+  border-right: 1px solid var(--primary);
   width: 400px;
+  transition: .5s ease;
 }
 
 .nav-button:hover {
@@ -186,15 +189,18 @@ nav {
     color: white;
     background-color: var(--primary);
     text-transform: uppercase;
+    transition: .5s ease;
   }
 }
 @keyframes button-change {
   0% {
     color: var(--primary);
     background-color: var(--darker);
+    transition: .5s ease;
   }
   100% {
     color: white;
     background-color: var(--primary);
+    transition: .5s ease;
   }
 }
