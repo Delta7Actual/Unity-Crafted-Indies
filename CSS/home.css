@@ -172,6 +172,12 @@ nav {
   border: 2px solid var(--primary);
   width: 400px;
   transition: 0.5s ease;
+  text-decoration: none !important;
+}
+
+.no-link {
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav-button:hover {
@@ -180,6 +186,26 @@ nav {
 
 .link:hover {
   animation: link 0.1s ease-out forwards;
+}
+
+.game {
+  border: var(--primary) 3px dashed;
+  font-size: 1.5rem;
+  color: var(--primary);
+  text-decoration: none;
+  padding: 5px 75px;
+  margin-bottom: 5px;
+  transition: 0.3s ease;
+}
+
+.game:hover {
+  animation: game 0.3 linear forwards;
+}
+
+@keyframes game {
+  100% {
+    background-color: var(--primary);
+  }
 }
 
 @keyframes link {
