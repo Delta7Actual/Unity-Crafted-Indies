@@ -34,12 +34,21 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "Fahass",
+      "name": "Umar Farouk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120847330?v=4",
+      "profile": "http://fahass.github.io/Portfolio",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "Personal-Game-Showcase",
+  "projectName": "Unity-Crafted-Indies",
   "projectOwner": "Delta7Actual"
 }
