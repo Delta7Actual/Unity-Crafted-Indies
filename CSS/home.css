@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: var(--darker);
   font-family: Jet;
   display: grid;
   grid-template-columns: 0.6fr 1fr;
@@ -178,6 +178,14 @@ nav {
 .no-link {
   text-decoration: none;
   color: inherit;
+}
+
+.no-link.nav-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .nav-button:hover {

@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Jet";
+  src: url(../Fonts/JetBrainsMono-Bold.ttf);
+}
+
+:root {
+  --darker: rgb(26, 28, 34);
+  --dark: #191d22;
+  --medium: #202429;
+  --light: #282e35;
+  --primary: #007d82;
+  --secondary: #e09f1f;
+}
+
+body {
+  font-family: Jet;
+  background-color: var(--darker);
+  margin: 0px;
+  color: white;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: var(--primary);
+  font-size: 4.5em;
+}
