@@ -81,3 +81,11 @@ git switch -c add-your-name
 ```
 
 Replace "add-your-name" with a branch name that describes your contribution.
+
+### 4. Make your changes and commit
+
+<img align="right" width="200" src="Images/Commit.png" alt="clone this repository" />
+
+- Add your contribution (For example, adding a game).
+- Commit your changes with a meaningful message in the **"Source Control"** tab.
+- Click **"Publish branch"** (This will add the changes to your personal repo).
