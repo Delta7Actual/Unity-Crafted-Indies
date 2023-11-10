@@ -2,6 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/games-1-blue.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome To **UCI**! Want a place to showcase your game? This is it.**
@@ -81,3 +82,11 @@ git switch -c add-your-name
 ```
 
 Replace "add-your-name" with a branch name that describes your contribution.
+
+### 4. Make your changes and commit
+
+<img align="right" width="200" src="Images/Commit.png" alt="clone this repository" />
+
+- Add your contribution (For example, adding a game).
+- Commit your changes with a meaningful message in the **"Source Control"** tab.
+- Click **"Publish branch"** (This will add the changes to your personal repo).
